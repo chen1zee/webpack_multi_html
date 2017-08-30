@@ -1,0 +1,17 @@
+{
+  "name": "webpack_multi_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config build/webpack.base.js"
+  },
+  "author": "chen1zee",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.5.5"
+  }
+}
